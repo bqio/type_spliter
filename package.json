@@ -1,0 +1,7 @@
+{
+  "name": "type_spliter",
+  "version": "0.0.1",
+  "dependencies": {
+    "fs-readdir-recursive": "^1.1.0"
+  }
+}
